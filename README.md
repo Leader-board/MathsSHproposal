@@ -3,4 +3,4 @@ My vision of enhancing the CBSE Mathematics syllabus. CBSE does not seem to care
 
 NOTE: Please download the file directly - there are some rendering issues when using GitHub's renderer.
 
-This file is dual-licensed under CC BY SA NC 4.0 (NOT the license specified on the LICENSE file).
+This file is licensed under CC BY SA NC 4.0.
